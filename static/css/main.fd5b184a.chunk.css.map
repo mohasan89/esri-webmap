@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,sBACE,aACF,CACA,cACE,wBACF,CAEA,OACE,UACF","file":"main.fd5b184a.chunk.css","sourcesContent":["button.navbar-toggler {\n  display: block;\n}\n.modal-dialog {\n  max-width: 85vw !important;\n}\n\n.icons {\n  width: 100%;\n}\n"]}

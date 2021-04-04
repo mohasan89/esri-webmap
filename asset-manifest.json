@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/esri-webmap/static/css/main.fd5b184a.chunk.css",
+    "main.js": "/esri-webmap/static/js/main.1ed11692.chunk.js",
+    "main.js.map": "/esri-webmap/static/js/main.1ed11692.chunk.js.map",
+    "runtime-main.js": "/esri-webmap/static/js/runtime-main.75071029.js",
+    "runtime-main.js.map": "/esri-webmap/static/js/runtime-main.75071029.js.map",
+    "static/css/2.1f208231.chunk.css": "/esri-webmap/static/css/2.1f208231.chunk.css",
+    "static/js/2.a0e096a4.chunk.js": "/esri-webmap/static/js/2.a0e096a4.chunk.js",
+    "static/js/2.a0e096a4.chunk.js.map": "/esri-webmap/static/js/2.a0e096a4.chunk.js.map",
+    "static/js/3.a26fc672.chunk.js": "/esri-webmap/static/js/3.a26fc672.chunk.js",
+    "static/js/3.a26fc672.chunk.js.map": "/esri-webmap/static/js/3.a26fc672.chunk.js.map",
+    "index.html": "/esri-webmap/index.html",
+    "static/css/2.1f208231.chunk.css.map": "/esri-webmap/static/css/2.1f208231.chunk.css.map",
+    "static/css/main.fd5b184a.chunk.css.map": "/esri-webmap/static/css/main.fd5b184a.chunk.css.map",
+    "static/js/2.a0e096a4.chunk.js.LICENSE.txt": "/esri-webmap/static/js/2.a0e096a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75071029.js",
+    "static/css/2.1f208231.chunk.css",
+    "static/js/2.a0e096a4.chunk.js",
+    "static/css/main.fd5b184a.chunk.css",
+    "static/js/main.1ed11692.chunk.js"
+  ]
+}
